@@ -1,1 +1,12 @@
-
+version: "3"
+services: 
+  openproject:
+    image: openproject/community:8 
+    ports:
+      - "8080:80"  
+    environment:
+      - SECRET_KEY_BASE=gestiontec
+    volumes:
+      - ./logs:/var/openproject/logs
+      - ./static:/var/openproject/assets 
+      - ./pgdata:/var/openproject/pgdata
