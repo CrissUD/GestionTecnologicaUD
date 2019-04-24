@@ -1,7 +1,7 @@
 # GestionTecnologicaUD
 ## Descripcion
 
-
+Este Repositorio da un seguimiento a la gestion de tecnologias para realizar la automatizacion de procesos relacionados con el desarrollo de un producto de software.
 
 ## Integrantes
 Cristian Felipe Patiño Caceres - 20141020079
