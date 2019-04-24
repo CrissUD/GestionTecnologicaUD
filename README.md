@@ -28,7 +28,7 @@ sudo docker-compose up -d
 
 nano docker-compose.yml
 
-#### Se ingresa al servicio desde el navegador wev
+#### Se ingresa al servicio desde el navegador web
 
 localhost:8080
 
